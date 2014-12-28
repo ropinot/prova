@@ -2,6 +2,6 @@
 
 ```css
 .ciao {
-  color: white;
+  color: green;
 }
 ```
